@@ -3,7 +3,7 @@
 ## I'm studing PSI, "Information Systems Programming", in UA 🇵🇹
 
 - :floppy_disk: I’m currently learning about Java and JavaScript
-- 🤯 I’m already learned about Algorithm, C/C++ and DataBases
+- 👀 I’m already learned about Algorithm, C/C++ and DataBases
 - 🦾 I’m looking for get more and more knowlodge about everything that envolves programming! 
 - 📫 How to reach me: by email? dahhhh :joy:
-- ⚡ Fun question: why the _kamikazes_ used helmets??  😵‍💫🤯
+- ⁉️ Fun question: why the _kamikazes_ used helmets??  😵‍💫🤯
